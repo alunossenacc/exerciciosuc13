@@ -15,6 +15,7 @@ implementado uma funçao para  verificar se o número for par, ou "Ímpar".
 
 ## exercicio 4 - Verifiçaço de tipo conta
  Verifica se um usuário pode acessar o sistema com base em sua idade, status de administrador e se a conta está bloqueada.
+ 
 
 ## exercicio 5 - Calculador de descontos
 
