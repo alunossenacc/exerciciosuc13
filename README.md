@@ -8,9 +8,10 @@ Implementada uma função chamada `verificarIdade` que recebe um número represe
 ## Exercicio 2 - Funçao para verificar dia da semana
 Retorna o nome do dia da semana correspondente ao número fornecido.
  Um número entre 1 e 7 representando um dia da semana.
+ implementando uma funco usando o switch como parametro
 
 ## exercicio 3 - verificar se o numero e par ou impar
-"Par" se o número for par, ou "Ímpar" se for ímpar.
+implementado uma funçao para  verificar se o número for par, ou "Ímpar".
 
 ## exercicio 4 - Verifiçaço de tipo conta
  Verifica se um usuário pode acessar o sistema com base em sua idade, status de administrador e se a conta está bloqueada.
@@ -18,3 +19,4 @@ Retorna o nome do dia da semana correspondente ao número fornecido.
 ## exercicio 5 - Calculador de descontos
 
  calcula o preço do produto com o desconto aplicado.
+ 
